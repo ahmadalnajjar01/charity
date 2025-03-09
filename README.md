@@ -70,7 +70,7 @@ Geolocation API: Find causes near the user’s location
 🎁 Reward System for Regular Donors
 🤝 Volunteer Matching System
 🔗 Useful Links
-🔹 GitHub: [https://github.com/charityHub/charityNest]
-🔹 Figma: [https://www.figma.com/design/HNtHGuKMISQAhJHBuX7TkB/Flexora?node-id=0-1&p=f&t=gT7p3wUkfpdR84Yz-0]
+🔹 GitHub: [[https://github.com/charityHub/charityNest](https://github.com/ahmadalnajjar01/charity.git)]
+
 
 🚀 Join us in making the world a better place, one donation at a time! ❤️
